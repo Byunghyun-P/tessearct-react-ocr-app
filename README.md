@@ -1,5 +1,7 @@
 # Tesseract.js & React POC Application
 
+[👉바로가기](https://byunghyun-p.github.io/tessearct-react-ocr-app/)
+
 [tesseract.js](https://github.com/naptha/tesseract.js)를 사용한 OCR POC Application
 
 ## PoC 시나리오
