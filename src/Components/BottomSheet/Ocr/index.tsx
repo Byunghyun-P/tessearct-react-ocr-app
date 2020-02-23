@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useCallback, useMemo } from "react";
+import React, { useState, useEffect, useCallback } from "react";
 import { useSelector, useDispatch } from "react-redux";
 import { Drawer } from "antd";
 
@@ -105,7 +105,7 @@ function BottomSheet({}) {
       title={stage === STAGE.LODING ? "분석중" : "결과"}
       placement="bottom"
       visible={isOcrBottomSheetOpen}
-      closable={stage === STAGE.RESULT}
+      maskClosable={false}
       destroyOnClose={true}
       height={stage === STAGE.LODING ? "130px" : "100%"}
       bodyStyle={{ padding: 0 }}
