@@ -17,7 +17,10 @@ function Controls({ handleOnCapture }: IProps) {
         placement="top"
         title="사진을 찍으면 문자를 인식합니다!"
         visible
-        overlayStyle={{ zIndex: 1 }}
+        overlayStyle={{
+          zIndex: 1,
+          position: "fixed"
+        }}
       >
         <CameraButton
           type="default"

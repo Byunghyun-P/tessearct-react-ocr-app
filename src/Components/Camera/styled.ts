@@ -1,5 +1,21 @@
 import styled from "styled-components";
 
+export const ErrorContainer = styled.div`
+  height: -webkit-fill-available;
+  height: 100vh;
+  width: 100vw;
+  background: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+`;
+
+export const ErrorExtraInformation = styled.div`
+  padding: 0 20px;
+  text-align: center;
+`;
+
 export const WebcamContainer = styled.div`
   position: fixed;
   height: -webkit-fill-available;
