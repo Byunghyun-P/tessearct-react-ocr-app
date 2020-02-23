@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/tessearct-react-ocr-app/static/css/main.162e4ce1.chunk.css",
-    "main.js": "/tessearct-react-ocr-app/static/js/main.b3124010.chunk.js",
-    "main.js.map": "/tessearct-react-ocr-app/static/js/main.b3124010.chunk.js.map",
+    "main.js": "/tessearct-react-ocr-app/static/js/main.246b039c.chunk.js",
+    "main.js.map": "/tessearct-react-ocr-app/static/js/main.246b039c.chunk.js.map",
     "runtime-main.js": "/tessearct-react-ocr-app/static/js/runtime-main.d1c33cba.js",
     "runtime-main.js.map": "/tessearct-react-ocr-app/static/js/runtime-main.d1c33cba.js.map",
-    "static/css/2.8d516ad8.chunk.css": "/tessearct-react-ocr-app/static/css/2.8d516ad8.chunk.css",
-    "static/js/2.3883247c.chunk.js": "/tessearct-react-ocr-app/static/js/2.3883247c.chunk.js",
-    "static/js/2.3883247c.chunk.js.map": "/tessearct-react-ocr-app/static/js/2.3883247c.chunk.js.map",
+    "static/css/2.86691b3a.chunk.css": "/tessearct-react-ocr-app/static/css/2.86691b3a.chunk.css",
+    "static/js/2.2ea4fcf6.chunk.js": "/tessearct-react-ocr-app/static/js/2.2ea4fcf6.chunk.js",
+    "static/js/2.2ea4fcf6.chunk.js.map": "/tessearct-react-ocr-app/static/js/2.2ea4fcf6.chunk.js.map",
     "index.html": "/tessearct-react-ocr-app/index.html",
-    "precache-manifest.2b71fc89ef5324c867794b8660ba0b74.js": "/tessearct-react-ocr-app/precache-manifest.2b71fc89ef5324c867794b8660ba0b74.js",
+    "precache-manifest.0f7eeb4f0c6a9413a8c35a06ec9985b3.js": "/tessearct-react-ocr-app/precache-manifest.0f7eeb4f0c6a9413a8c35a06ec9985b3.js",
     "service-worker.js": "/tessearct-react-ocr-app/service-worker.js",
-    "static/css/2.8d516ad8.chunk.css.map": "/tessearct-react-ocr-app/static/css/2.8d516ad8.chunk.css.map",
+    "static/css/2.86691b3a.chunk.css.map": "/tessearct-react-ocr-app/static/css/2.86691b3a.chunk.css.map",
     "static/css/main.162e4ce1.chunk.css.map": "/tessearct-react-ocr-app/static/css/main.162e4ce1.chunk.css.map",
-    "static/js/2.3883247c.chunk.js.LICENSE.txt": "/tessearct-react-ocr-app/static/js/2.3883247c.chunk.js.LICENSE.txt"
+    "static/js/2.2ea4fcf6.chunk.js.LICENSE.txt": "/tessearct-react-ocr-app/static/js/2.2ea4fcf6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d1c33cba.js",
-    "static/css/2.8d516ad8.chunk.css",
-    "static/js/2.3883247c.chunk.js",
+    "static/css/2.86691b3a.chunk.css",
+    "static/js/2.2ea4fcf6.chunk.js",
     "static/css/main.162e4ce1.chunk.css",
-    "static/js/main.b3124010.chunk.js"
+    "static/js/main.246b039c.chunk.js"
   ]
 }
