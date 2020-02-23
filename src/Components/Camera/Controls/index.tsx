@@ -1,9 +1,9 @@
 import React from "react";
 import { useDispatch } from "react-redux";
-import { Tooltip } from "antd";
+import { Tooltip, Button } from "antd";
 
 import { setIsSettingBottomSheetOpen } from "../../../features/ui/uiSlice";
-import { Container, CameraButton, SettingButton } from "./styled";
+import { Container } from "./styled";
 
 interface IProps {
   handleOnCapture: () => void;
@@ -11,8 +11,22 @@ interface IProps {
 
 function Controls({ handleOnCapture }: IProps) {
   const dispatch = useDispatch();
+
   return (
     <Container>
+      <Button
+        type="default"
+        shape="circle"
+        icon="github"
+        size="large"
+        onClick={() => {
+          window.open(
+            "https://github.com/Byunghyun-P/tessearct-react-ocr-app",
+            "_blank",
+            'noopener'
+          );
+        }}
+      />
       <Tooltip
         placement="top"
         title="사진을 찍으면 문자를 인식합니다!"
@@ -22,7 +36,7 @@ function Controls({ handleOnCapture }: IProps) {
           position: "fixed"
         }}
       >
-        <CameraButton
+        <Button
           type="default"
           shape="round"
           icon="camera"
@@ -30,7 +44,7 @@ function Controls({ handleOnCapture }: IProps) {
           onClick={handleOnCapture}
         />
       </Tooltip>
-      <SettingButton
+      <Button
         icon="setting"
         shape="circle"
         size="large"
