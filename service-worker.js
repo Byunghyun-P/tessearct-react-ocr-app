@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tessearct-react-ocr-app/precache-manifest.0f7eeb4f0c6a9413a8c35a06ec9985b3.js"
+  "/tessearct-react-ocr-app/precache-manifest.188cc7abb21c0b49e71a278f876ddfc5.js"
 );
 
 self.addEventListener('message', (event) => {

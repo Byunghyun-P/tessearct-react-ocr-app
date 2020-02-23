@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6d930227118ecf5696cab0056d424676",
+    "revision": "5877f0145621249fd308e2d54ef92167",
     "url": "/tessearct-react-ocr-app/index.html"
   },
   {
-    "revision": "2aa329a4252428550de4",
+    "revision": "4844dc9c208ccdd6d448",
     "url": "/tessearct-react-ocr-app/static/css/2.86691b3a.chunk.css"
   },
   {
-    "revision": "5510112588dec99ce480",
+    "revision": "f2b43f78e6cf238212ff",
     "url": "/tessearct-react-ocr-app/static/css/main.162e4ce1.chunk.css"
   },
   {
-    "revision": "2aa329a4252428550de4",
-    "url": "/tessearct-react-ocr-app/static/js/2.2ea4fcf6.chunk.js"
+    "revision": "4844dc9c208ccdd6d448",
+    "url": "/tessearct-react-ocr-app/static/js/2.5680c0cb.chunk.js"
   },
   {
     "revision": "c26efdc2300abe6629ffdfeb2d5a8c32",
-    "url": "/tessearct-react-ocr-app/static/js/2.2ea4fcf6.chunk.js.LICENSE.txt"
+    "url": "/tessearct-react-ocr-app/static/js/2.5680c0cb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5510112588dec99ce480",
-    "url": "/tessearct-react-ocr-app/static/js/main.246b039c.chunk.js"
+    "revision": "f2b43f78e6cf238212ff",
+    "url": "/tessearct-react-ocr-app/static/js/main.b6722d60.chunk.js"
   },
   {
     "revision": "ff31bc471c3c5d376f9b",
